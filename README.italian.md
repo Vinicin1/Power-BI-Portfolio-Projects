@@ -41,16 +41,16 @@ Questo progetto presenta una serie di dashboard interattive sviluppate per monit
 ## Preview
 
 <p align="center">
-  <img src="Images/DashboardFinance.png" width="900" alt="Dashboard de análise geral">
+  <img src="Images/Italian/analisiVendite.png" width="900" alt="Dashboard de análise geral">
+</p>
+
+<p align="center">
+  <img src="Images/Italian/MotiviD'acquisto.png" width="900" alt="Dashboard de análise geral">
 
 </p>
 
 <p align="center">
-  <img src="Images/desempenhoDeVendas.png" width="900" alt="Dashboard de análise geral">
-</p>
-
-<p align="center">
-  <img src="Images/RelatórioDeReceita.png" width="900" alt="Dashboard de análise geral">
+  <img src="Images/Italian/PotenzialiPersi.png" width="900" alt="Dashboard de análise geral">
 </p>
 
 Per visualizzare il contenuto in altre lingue, clicca qui:
