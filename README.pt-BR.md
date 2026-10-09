@@ -1,4 +1,4 @@
-# Power BI Portfolio Projects
+# Power BI Portfolio de Projetos
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -17,32 +17,16 @@
 ![WINDOWS TERMINAL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 
-Welcome to my Power BI project portfolio.
+Bem-vindo ao meu portfólio de projetos no Power BI.
 
-Here, you will find a collection of dashboards and projects developed to showcase my skills in **Business Intelligence, data analysis, and data visualization**. These projects explore various business scenarios, highlighting the practical application of data to generate insights and support decision-making.
+Aqui, você encontrará uma coleção de dashboards e projetos desenvolvidos para demonstrar minhas habilidades em **Business Intelligence, análise de dados e visualização de dados**. Esses projetos exploram diversos cenários de negócios, destacando a aplicação prática dos dados para gerar insights e apoiar a tomada de decisões.
 
-The content is available in **English, Portuguese, and Italian**.
+O conteúdo está disponível em **inglês, português e italiano**.
 
 ---
 - [<ins><b>©2026 Vinícius Oliveira. All rights reserved</b></ins>]()
 ---
-## Project 1: Sales Dashboard
-
-
-### 🇺🇸 English
-
-This project features a set of interactive dashboards designed to monitor key sales, revenue, and customer behavior metrics.
-
-**Key insights:**
--  Overview of orders, net revenue, and conversion rate.
--  Top-performing brands ranked by sales volume and revenue.
--  Monthly revenue trend analysis.
--  Sales performance evaluation by payment method and product category.
--  Cancellation monitoring and financial impact assessment.
-
----
-
-### 🇧🇷 Português
+## Project 1: Dashboard de Vendas
 
 Projeto de Business Intelligence focado na análise de desempenho comercial, monitoramento de receita, comportamento dos clientes e impacto de cancelamentos. Os dashboards fornecem insights estratégicos para apoiar a tomada de decisões baseada em dados.
 
@@ -52,21 +36,6 @@ Projeto de Business Intelligence focado na análise de desempenho comercial, mon
 -  Evolução da receita ao longo dos meses.
 -  Análise de desempenho comercial por método de pagamento e categoria de produto.
 -  Monitoramento de cancelamentos e seus impactos financeiros.
-
----
-
-### 🇮🇹 Italiano
-
-Questo progetto presenta una serie di dashboard interattive sviluppate per monitorare indicatori strategici relativi alle vendite, ai ricavi e al comportamento dei clienti.
-
-**Analisi principali:**
-
--  Panoramica degli ordini, dei ricavi netti e del tasso di conversione.
--  Classifica dei marchi con le migliori prestazioni in termini di vendite e fatturato.
--  Analisi dell'andamento dei ricavi nel tempo.
--  Valutazione delle prestazioni di vendita per metodo di pagamento e categoria di prodotto.
--  Monitoraggio delle cancellazioni e del loro impatto economico.
-
 
 ## Preview
 
@@ -82,6 +51,10 @@ Questo progetto presenta una serie di dashboard interattive sviluppate per monit
 <p align="center">
   <img src="Images/RelatórioDeReceita.png" width="900" alt="Dashboard de análise geral">
 </p>
+
+
+Para visualizar o conteúdo em outros idiomas, clique aqui:
+[it italian](README.italian.md) | [us English](README.md)
 
 
 ## Project 2: Sales Dashboard
