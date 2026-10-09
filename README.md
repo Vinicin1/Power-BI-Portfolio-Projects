@@ -32,6 +32,9 @@ The content is available in **English, Portuguese, and Italian**.
 
 ## Preview
 
+<p align="center">
+  <img src="Images/Analise%20geral.png" width="900" alt="Dashboard de análise geral">
+</p>
 
 ## Project 2: Sales Dashboard
 
