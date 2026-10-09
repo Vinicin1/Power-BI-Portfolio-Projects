@@ -52,6 +52,8 @@ This project features a set of interactive dashboards designed to monitor key sa
 <p align="center">
   <img src="Images/RelatórioDeReceita.png" width="900" alt="Dashboard de análise geral">
 </p>
+
+To view or read in other idioms, click here:
 [pt Português](README.pt-BR.md) | [it Italian](README.italian.md)
 
 ## Project 2: Sales Dashboard
