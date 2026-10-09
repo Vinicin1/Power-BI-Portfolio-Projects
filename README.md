@@ -41,16 +41,16 @@ This project features a set of interactive dashboards designed to monitor key sa
 ## Preview
 
 <p align="center">
-  <img src="Images/DashboardFinance.png" width="900" alt="Dashboard de análise geral">
+  <img src="Images/English/TotalRevenue.jpg" width="900" alt="Dashboard de análise geral">
 
 </p>
 
 <p align="center">
-  <img src="Images/desempenhoDeVendas.png" width="900" alt="Dashboard de análise geral">
+  <img src="Images/English/PurchaseReasons.jpg" width="900" alt="Dashboard de análise geral">
 </p>
 
 <p align="center">
-  <img src="Images/RelatórioDeReceita.png" width="900" alt="Dashboard de análise geral">
+  <img src="Images/English/PotencialLostRevenue.jpg" width="900" alt="Dashboard de análise geral">
 </p>
 
 To view or read in other idioms, click here:
